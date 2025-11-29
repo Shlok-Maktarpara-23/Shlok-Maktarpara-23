@@ -174,7 +174,3 @@ I value continuous learning and meaningful connections. Feel free to reach out f
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- ⚡ Footer -->
-<p align="center">
-  ⚡ Crafted with ❤️ by <strong>Shlok Maktarpara</strong>
-</p>
