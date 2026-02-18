@@ -1,8 +1,9 @@
 <!-- 🌟 Aesthetic GitHub Tech Banner (Top Decorative Banner) -->
-<p align="center">
+[![MasterHead](https://i.imgur.com/qNFF2xG.jpg)](https://www.linkedin.com/in/yasirshahzad18/)
+<!-- <p align="center">
   <img src="https://www.google.com/imgres?q=readme%20banner%20gif%20github%20profile%20tech%20banner&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F588181932%2Fe36ec678-7984-4cdd-8e4c-a3932772ff8e&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fgithub-profile&docid=E3otLOMuLiTyXM&tbnid=kfpqCuXmfeFi9M&vet=12ahUKEwjlreD1tOOSAxVBh68BHfCPEpUQnPAOegQIHRAB..i&w=1600&h=700&hcb=2&ved=2ahUKEwjlreD1tOOSAxVBh68BHfCPEpUQnPAOegQIHRAB" 
        alt="Aesthetic Tech Banner" width="100%" />
-</p>
+</p> -->
 
 
 <!-- 🎞️ Animated Left & Right Side GIFs for Visual Balance -->
