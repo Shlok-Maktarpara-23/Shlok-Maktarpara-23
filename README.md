@@ -1,6 +1,6 @@
 <!-- 🌟 Aesthetic GitHub Tech Banner (Top Decorative Banner) -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/4c7f3ffa7eb686b64003708d374f4f390b274c8b6d2b99945a0a6a6a8987d4d4/68747470733a2f2f6d706f6c696e6f77736b692e6769746875622e696f2f506572736f6e616c2f706572736f6e616c5f6173736574732f696d672f746f6f6c735f62616e6e65722e77656270" 
+  <img src="https://www.freepik.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_160645749.htm#fromView=keyword&page=1&position=6&uuid=edc39ca3-8bbb-4416-abc2-77c1f03a4c32&query=Full+stack+developer+github+profile+banner" 
        alt="Aesthetic Tech Banner" width="100%" />
 </p>
 
