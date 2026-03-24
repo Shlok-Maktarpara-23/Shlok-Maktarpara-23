@@ -163,11 +163,11 @@ I value continuous learning and meaningful connections. Feel free to reach out f
 
 <br>
 
-<!-- 📊 GitHub Statistics Section -->
+<!-- 📊 GitHub Statistics Section 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shlok-Maktarpara-23&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shlok-Maktarpara-23&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shlok-Maktarpara-23&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shlok-Maktarpara-23&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <br>
 
